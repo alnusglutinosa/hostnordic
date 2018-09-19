@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs>
+        <path id="a" d="M0 0h66.888v79.018H0z"/>
+    
+        <path id="a" d="M0 0h61.64v29.993H0z"/>
+    
+        <path id="a" d="M0 0h57.81v42H0z"/>
+    
+        <path id="a" d="M0 0h66.983v81.297H0z"/>
+    
+        <path id="a" d="M0 0h44.506v39.596H0z"/>
+    
+        <path id="a" d="M0 0h64.073v57.827H0z"/>
+    </defs><symbol id="icon-busines" viewBox="0 0 66.888 79.018">
+    
+    <clipPath id="b">
+        <use xlink:href="#a" overflow="visible"/>
+    </clipPath>
+    <path d="M17.86 22.33c0 11.78 6.978 21.329 15.584 21.329 8.605 0 15.584-9.549 15.584-21.329S48.679 1 33.444 1 17.86 10.55 17.86 22.33z" clip-path="url(#b)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10"/>
+    <path clip-path="url(#b)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M26.711 41.57l-2.438 7.312"/>
+    <path clip-path="url(#b)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M40.177 41.57l2.437 7.312"/>
+    <path d="M65.889 69.44c0-12.259-10.029-19.502-22.287-19.502H23.286C11.029 49.938 1 57.181 1 69.44v8.578h64.889V69.44z" clip-path="url(#b)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10"/>
+    <path clip-path="url(#b)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M53.226 51.853L33.444 75.571 13.662 51.853"/>
+    <path clip-path="url(#b)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M26.83 67.027l3.074-16.392h7.079l3.086 16.456"/>
+    <path d="M48.865 15.449c-.021-.771-.037-1.517-.18-2.187-.128-.618-.366-1.187-.818-1.69l-.03-.039c-.685-.738-1.582-.99-2.634-.984-1.208.009-2.671.344-4.256.709h-.004c-2.279.523-4.756 1.087-7.487 1.087-2.704 0-5.156-.553-7.419-1.073a.61.61 0 0 1-.136-.03c-1.557-.355-3.002-.684-4.195-.693-1.07-.006-1.976.253-2.664 1.02-.452.503-.689 1.075-.816 1.69-.139.67-.162 1.417-.179 2.19" clip-path="url(#b)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10"/>
+</symbol><symbol id="icon-consultancy" viewBox="0 0 61.64 29.993">
+    
+    <clipPath id="b">
+        <use xlink:href="#a" overflow="visible"/>
+    </clipPath>
+    <circle cx="14.997" cy="14.997" r="13.997" clip-path="url(#b)" stroke-width="2" stroke-miterlimit="10"/>
+    <circle cx="46.644" cy="14.997" r="13.996" clip-path="url(#b)" stroke-width="2" stroke-miterlimit="10"/>
+    <path d="M24.26 4.504s6.924-2.111 13.121 0" clip-path="url(#b)" stroke-width="2" stroke-miterlimit="10"/>
+    <path d="M27.431 8.571s4.533-1.313 6.776 0" clip-path="url(#b)" stroke-width="2" stroke-miterlimit="10"/>
+    <path d="M5.931 14.997a9.066 9.066 0 0 1 9.066-9.066" clip-path="url(#b)" stroke-width="2" stroke-miterlimit="10"/>
+    <path d="M37.938 14.997a9.067 9.067 0 0 1 9.066-9.066" clip-path="url(#b)" stroke-width="2" stroke-miterlimit="10"/>
+</symbol><symbol id="icon-education" viewBox="0 0 57.81 42">
+    
+    <clipPath id="b">
+        <use xlink:href="#a" overflow="visible"/>
+    </clipPath>
+    <path d="M52.51 16.27l-4.479 1.95v14.97c0 .73-.37 1.41-.97 1.82C41.12 39 34.46 41 27.8 41c-6.65 0-13.31-2-19.25-5.99-.61-.41-.97-1.09-.97-1.82V18.22l-5.26-2.29C1.52 15.58 1 14.79 1 13.92s.52-1.67 1.32-2.02L26.93 1.18c.55-.24 1.19-.24 1.75 0L53.29 11.9c.54.24.95.68 1.16 1.21.16.19.26.43.26.7v9.437c.66.38 2.101 1.09 2.101 1.899v7.69c0 1.21-.99 2.2-2.2 2.2s-2.2-.99-2.2-2.2v-7.69c0-.81 1.64-1.52 2.3-1.899M54.71 15.3L28.405 26.897 2.32 15.93" clip-path="url(#b)" stroke-width="2" stroke-miterlimit="10"/>
+</symbol><symbol id="icon-facebook" viewBox="0 0 10 19">
+    <title>
+        facebook
+    </title>
+    <path d="M9.766.157v2.946H8.014c-.64 0-1.071.134-1.295.402-.223.268-.335.67-.335 1.205v2.11h3.27l-.435 3.303H6.384v8.471H2.97v-8.47H.123V6.82H2.97V4.387c0-1.384.387-2.457 1.161-3.22C4.904.404 5.934.023 7.222.023c1.093 0 1.941.045 2.544.134z" fill-rule="evenodd"/>
+</symbol><symbol id="icon-outsorcing" viewBox="0 0 66.982 81.296">
+    <path stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M33.527 20.977v39.804"/>
+    <path stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M9.653 41.424h47.306"/>
+    
+    <clipPath id="b">
+        <use xlink:href="#a" overflow="visible"/>
+    </clipPath>
+    <circle cx="53.31" cy="26.898" r="4.117" clip-path="url(#b)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10"/>
+    <circle cx="53.31" cy="55.898" r="4.117" clip-path="url(#b)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10"/>
+    <circle cx="13.309" cy="26.898" r="4.117" clip-path="url(#b)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10"/>
+    <circle cx="13.309" cy="55.898" r="4.117" clip-path="url(#b)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10"/>
+    <circle cx="33.528" cy="64.898" r="4.117" clip-path="url(#b)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10"/>
+    <circle cx="33.528" cy="16.898" r="4.117" clip-path="url(#b)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10"/>
+    <path d="M53.309 51.781a4.08 4.08 0 0 1 1.698.375 23.893 23.893 0 0 0 2.541-10.731c0-3.875-.924-7.535-2.554-10.777a4.093 4.093 0 0 1-1.686.368 4.118 4.118 0 0 1-4.117-4.117c0-1.048.403-1.993 1.049-2.72a23.961 23.961 0 0 0-12.686-6.43 4.117 4.117 0 0 1-8.054-.001 23.96 23.96 0 0 0-12.923 6.67c.526.692.85 1.545.85 2.481a4.118 4.118 0 0 1-4.118 4.117c-.46 0-.895-.093-1.308-.232a23.903 23.903 0 0 0-2.493 10.641c0 3.807.9 7.396 2.476 10.595a4.049 4.049 0 0 1 1.325-.238 4.114 4.114 0 0 1 3.754 2.439c4.3-1.938 10.091-3.128 16.464-3.128 6.203 0 11.85 1.128 16.111 2.977.676-1.353 2.059-2.289 3.671-2.289z" clip-path="url(#b)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10"/>
+    <path d="M50.238 24.18a23.953 23.953 0 0 0-12.684-6.431 4.117 4.117 0 0 1-8.054 0c-5.005.846-9.467 3.254-12.911 6.685.518.689.837 1.536.837 2.465 0 .616-.145 1.195-.387 1.72 4.302 1.945 10.103 3.139 16.488 3.139 6.215 0 11.87-1.133 16.135-2.987a4.064 4.064 0 0 1-.471-1.872c0-1.048.404-1.993 1.047-2.719z" clip-path="url(#b)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10"/>
+    <path d="M37.224 18.681a4.104 4.104 0 0 1-3.696 2.334 4.104 4.104 0 0 1-3.695-2.334c-4.535 3.217-7.799 12.181-7.799 22.744 0 10.328 3.12 19.132 7.498 22.525a4.11 4.11 0 0 1 3.997-3.17 4.11 4.11 0 0 1 3.997 3.17c4.378-3.394 7.498-12.197 7.498-22.525-.002-10.563-3.266-19.527-7.8-22.744z" clip-path="url(#b)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10"/>
+    <path d="M49.191 55.898c0-.661.17-1.276.447-1.83-4.261-1.847-9.908-2.976-16.111-2.976-6.374 0-12.165 1.189-16.465 3.128.23.514.364 1.079.364 1.678a4.08 4.08 0 0 1-.861 2.494c3.431 3.428 7.876 5.839 12.864 6.698-.003-.065-.019-.127-.019-.192a4.118 4.118 0 0 1 8.234 0c0 .065-.016.127-.018.192 4.872-.838 9.228-3.156 12.626-6.458a4.083 4.083 0 0 1-1.061-2.734z" clip-path="url(#b)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10"/>
+    <path clip-path="url(#b)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M29.371 5.167L33.538 1v11.281"/>
+    <path clip-path="url(#b)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M33.538 1l4.167 4.167"/>
+    <path clip-path="url(#b)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M37.705 76.129l-4.167 4.167v-11.28"/>
+    <path clip-path="url(#b)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M33.538 80.296l-4.167-4.167"/>
+    <path clip-path="url(#b)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M1.797 23.027L1 17.189l.203.154 8.78 6.67"/>
+    <path clip-path="url(#b)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M1 17.189l5.839-.797"/>
+    <path clip-path="url(#b)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M65.186 23.027l.796-5.838-.203.154L57 24.013"/>
+    <path clip-path="url(#b)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M65.982 17.189l-5.838-.797"/>
+    <path clip-path="url(#b)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M1.797 59.377L1 65.216l.203-.154 8.78-6.671"/>
+    <path clip-path="url(#b)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M1 65.216l5.839.797"/>
+    <path clip-path="url(#b)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M65.186 59.377l.796 5.839-.203-.154L57 58.391"/>
+    <path clip-path="url(#b)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M65.982 65.216l-5.838.797"/>
+</symbol><symbol id="icon-self" viewBox="0 0 44.506 39.596">
+    
+    <clipPath id="b">
+        <use xlink:href="#a" overflow="visible"/>
+    </clipPath>
+    <path d="M25.155 10.105v-.004a2.265 2.265 0 0 1 2.26 2.263l-.003 3.67h.003c0 .623-.255 1.19-.667 1.599a2.234 2.234 0 0 1-1.596.66l-6.207-.001v.001a2.249 2.249 0 0 1-1.599-.665 2.256 2.256 0 0 1-.661-1.598v-3.67h-.003c0-.623.258-1.187.669-1.599.407-.407.974-.66 1.596-.66l6.208.004z" clip-path="url(#b)" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path clip-path="url(#b)" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" d="M22.049 18.661v19.936"/>
+    <path clip-path="url(#b)" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" d="M22.049 1v8.697"/>
+    <path d="M3.259 30.02A2.264 2.264 0 0 1 1 27.761l.003-3.672H1a2.265 2.265 0 0 1 2.262-2.261l6.21.004v-.002c.62 0 1.186.254 1.596.666.409.408.663.977.66 1.597l-.002 3.669h.005a2.265 2.265 0 0 1-2.265 2.262l-6.207-.004z" clip-path="url(#b)" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path clip-path="url(#b)" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" d="M6.366 30.702v7.894"/>
+    <path clip-path="url(#b)" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" d="M6.366 1v20.737"/>
+    <path d="M35.036 30.047v.002a2.253 2.253 0 0 1-1.599-.666 2.241 2.241 0 0 1-.66-1.595v-3.673h-.002c0-.623.256-1.188.668-1.6a2.26 2.26 0 0 1 1.596-.659l6.207.002a2.263 2.263 0 0 1 2.261 2.261l-.004 3.671h.004a2.26 2.26 0 0 1-2.263 2.259l-6.208-.002z" clip-path="url(#b)" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path clip-path="url(#b)" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" d="M38.141 30.702v7.894"/>
+    <path clip-path="url(#b)" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" d="M38.141 1v20.737"/>
+</symbol><symbol id="icon-support" viewBox="0 0 64.073 57.827">
+    
+    <clipPath id="b">
+        <use xlink:href="#a" overflow="visible"/>
+    </clipPath>
+    <path d="M15.356 9.241A27.826 27.826 0 0 1 35.159 1c15.417 0 27.914 12.497 27.914 27.913S50.576 56.827 35.159 56.827c-15.417 0-27.913-12.498-27.913-27.914" clip-path="url(#b)" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10"/>
+    <path clip-path="url(#b)" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" d="M34.161 17.93v12.782"/>
+    <path clip-path="url(#b)" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" d="M34.161 30.712h8.875"/>
+    <path clip-path="url(#b)" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" d="M13.491 32.376l-6.245-4.164L1 32.376"/>
+</symbol></svg>

@@ -1,0 +1,102 @@
+.header
+	padding: 20px 0
+	box-shadow: 0 0 40px rgba(0, 0, 0, 0.54)
+	background-color: #181818
+
+	&__wrap 
+		display: flex
+
+	&__nav
+		display: flex
+
+.main-nav 
+	$this: &
+
+	&__list 
+		display: flex
+		justify-content: space-between
+
+		&--sub2
+			display: none
+			position: absolute
+			top: 100%
+			left: 0
+			width: 340px
+			background-color: #181818
+			box-shadow: 0 0 40px rgba(0,0,0,.54)
+
+	&__item
+		position: relative
+		white-space: nowrap
+
+		&:hover
+			#{$this}__list--sub2
+				display: block
+
+		&--dropdown
+			color: red
+
+			& > #{$this}__link
+
+				&:after
+					content: ""
+					display: inline-block
+					width: 0
+					height: 0
+					margin-left: 8px
+					vertical-align: middle
+					border-width: 6px 4px 0
+					border-style: solid
+					border-color: #8f8f9b transparent transparent
+
+	&__link
+		position: relative
+		padding: 15px 11px
+		color: #fff
+		font-weight: 400
+		text-decoration: none
+
+		&:hover
+			text-decoration: underline
+
+.hero 
+	padding: 200px 0
+	color: #FFF
+	background-color: #181818
+	background-repeat: no-repeat
+	background-size: 500px
+	background-position: right center
+
+	&__wrap
+		padding: 0 20px
+
+.logo 
+	display: flex
+	flex: 0 0 auto
+
+	&__img 
+		display: block
+		width: 328.4px 
+		height: 46px
+
+
+.btn
+	display: inline-block
+	padding: 18px 20px
+	font-size: 16px
+	line-height: 1.4
+	font-weight: 400
+	color: #fff
+	text-decoration: none
+	border-radius: 36px
+	background-color: #90c53c
+	user-select: none
+
+	&:hover,
+	&:focus
+		background-color: #6eab0f
+
+	&:active 
+		color: #eee
+
+
